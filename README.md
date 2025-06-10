@@ -4,9 +4,9 @@
 [![MyGet](https://img.shields.io/azure-devops/release/neosys000/945dc9e7-47f4-4349-8840-e5f4cffa92e4/2/2.svg)](https://img.shields.io/azure-devops/release/neosys000/945dc9e7-47f4-4349-8840-e5f4cffa92e4/2/2.svg)
 [![Build status](https://neosys000.visualstudio.com/OMS/_apis/build/status/NS.OpenXml.Bookmark-CI)](https://neosys000.visualstudio.com/OMS/_build/latest?definitionId=5)
 
-# Open XML Excel Interop
+# Open XML Word Bookmark Helper
 
-The Open XML Excel Interop is a small .Net library that provides tools for working with Office Word using Open XML SDK. It supports scenarios such as:
+The Open XML Word Bookmark Helper is a small .Net library that provides tools for working with Office Word using Open XML SDK. It supports scenarios such as:
 - Populating content in Word files using Open XML.
 - Searching and replacing content in Word using bookmarks (Text, Image, Table, ...).
 - Retrieving list of bookmarks in Word document.
